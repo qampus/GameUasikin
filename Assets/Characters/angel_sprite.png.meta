@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 0ca0dc837f7d40745a1effee66fe59eb
+timeCreated: 1510130396
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: angel_sprite_0
+    21300002: angel_sprite_1
+    21300004: angel_sprite_2
+    21300006: angel_sprite_3
+    21300008: angel_sprite_4
+    21300010: angel_sprite_5
+    21300012: angel_sprite_6
+    21300014: angel_sprite_7
+    21300016: angel_sprite_8
+    21300018: angel_sprite_9
+    21300020: angel_sprite_10
+    21300022: angel_sprite_11
+    21300024: angel_sprite_12
+    21300026: angel_sprite_13
+    21300028: angel_sprite_14
+    21300030: angel_sprite_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: angel_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 26}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -17}
+        - {x: -26.5, y: -26}
+        - {x: 36.5, y: -26}
+        - {x: 39.5, y: -15}
+        - {x: 39.5, y: 11}
+        - {x: 27.5, y: 26}
+    - name: angel_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 197
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 26.5}
+        - {x: -33.5, y: -14.5}
+        - {x: -30.5, y: -25.5}
+        - {x: -27.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 33.5, y: -18.5}
+        - {x: 33.5, y: 17.5}
+        - {x: 27.5, y: 26.5}
+    - name: angel_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 26}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -17}
+        - {x: -26.5, y: -26}
+        - {x: 36.5, y: -26}
+        - {x: 39.5, y: -15}
+        - {x: 39.5, y: 11}
+        - {x: 27.5, y: 26}
+    - name: angel_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 197
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 13.5}
+        - {x: 18.5, y: 26.5}
+        - {x: -33.5, y: 26.5}
+        - {x: -33.5, y: -10.5}
+        - {x: -29.5, y: -24.5}
+        - {x: -15.5, y: -26.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 27.5, y: -22.5}
+        - {x: 33.5, y: 0.5}
+    - name: angel_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 133
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -22, y: 21.5}
+        - {x: -22, y: -16.5}
+        - {x: -20, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 14, y: -22.5}
+        - {x: 22, y: -11.5}
+        - {x: 22, y: 15.5}
+        - {x: 18, y: 23.5}
+    - name: angel_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 133
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -24, y: 20.5}
+        - {x: -24, y: -21.5}
+        - {x: -23, y: -22.5}
+        - {x: 23, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: 13.5}
+        - {x: 14, y: 22.5}
+    - name: angel_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 133
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23.5}
+        - {x: -22, y: 21.5}
+        - {x: -22, y: -16.5}
+        - {x: -20, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 14, y: -22.5}
+        - {x: 22, y: -11.5}
+        - {x: 22, y: 15.5}
+        - {x: 18, y: 23.5}
+    - name: angel_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 132
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23}
+        - {x: -22, y: 23}
+        - {x: -24, y: 20}
+        - {x: -24, y: -11}
+        - {x: -23, y: -22}
+        - {x: -22, y: -23}
+        - {x: 1, y: -23}
+        - {x: 19, y: -20}
+        - {x: 24, y: -6}
+        - {x: 24, y: 15}
+    - name: angel_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23.5}
+        - {x: -13, y: 23.5}
+        - {x: -22, y: 14.5}
+        - {x: -22, y: -20.5}
+        - {x: -13, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: 0.5}
+        - {x: 22, y: 19.5}
+    - name: angel_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23}
+        - {x: -24, y: 15}
+        - {x: -24, y: -12}
+        - {x: -22, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+    - name: angel_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23.5}
+        - {x: -13, y: 23.5}
+        - {x: -22, y: 14.5}
+        - {x: -22, y: -20.5}
+        - {x: -13, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: 0.5}
+        - {x: 22, y: 19.5}
+    - name: angel_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 68
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23}
+        - {x: -24, y: 16}
+        - {x: -24, y: -14}
+        - {x: -23, y: -16}
+        - {x: 3, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 21}
+        - {x: 23, y: 23}
+    - name: angel_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 25}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -17}
+        - {x: -37.5, y: -25}
+        - {x: 27.5, y: -25}
+        - {x: 39.5, y: -6}
+        - {x: 39.5, y: 16}
+        - {x: 30.5, y: 25}
+    - name: angel_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 26}
+        - {x: -32.5, y: 23}
+        - {x: -32.5, y: -14}
+        - {x: -28.5, y: -26}
+        - {x: 31.5, y: -26}
+        - {x: 32.5, y: -24}
+        - {x: 32.5, y: 24}
+        - {x: 27.5, y: 26}
+    - name: angel_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 25}
+        - {x: -39.5, y: 21}
+        - {x: -39.5, y: -17}
+        - {x: -37.5, y: -25}
+        - {x: 27.5, y: -25}
+        - {x: 39.5, y: -6}
+        - {x: 39.5, y: 16}
+        - {x: 30.5, y: 25}
+    - name: angel_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 26}
+        - {x: -32.5, y: 21}
+        - {x: -32.5, y: -14}
+        - {x: -29.5, y: -26}
+        - {x: 24.5, y: -26}
+        - {x: 32.5, y: -13}
+        - {x: 32.5, y: 26}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
